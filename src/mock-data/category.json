@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "category": "sunglasses",
+        "src": [
+            "assets/images/element/categories/sunglasses-300x300.jpg",
+            "assets/images/element/categories/sunglasses_1.jpg"
+        ],
+        "count": 3
+    },
+    {
+        "id": 2,
+        "category": "bags",
+        "src": [
+            "assets/images/element/categories/bag-300x300.jpg",
+            "assets/images/element/categories/bag_1-400x400.jpg"
+        ],
+        "count": 8
+    },
+    {
+        "id": 3,
+        "category": "shoes",
+        "src": [
+            "assets/images/element/categories/shoes-300x300.jpg",
+            "assets/images/element/categories/shoes_1-400x400.jpg"
+        ],
+        "count": 2
+    },
+    {
+        "id": 4,
+        "category": "accessories",
+        "src": [
+            "assets/images/element/categories/accessories-300x300.jpg",
+            "assets/images/element/categories/accessories_1.jpg"
+        ],
+        "count": 5
+    },
+    {
+        "id": 5,
+        "category": "sports",
+        "src": "assets/images/element/categories/shop7_sports_cat.jpg"
+    },
+    {
+        "id": 6,
+        "category": "beauty",
+        "src": "assets/images/element/categories/shop7_beauty_cat.jpg",
+        "count": 6
+    },
+    {
+        "id": 6,
+        "category": "men",
+        "src": "assets/images/element/categories/shop7_fashion_cat.jpg",
+        "count": 4
+    },
+    {
+        "id": 7,
+        "category": "fashion",
+        "src": "assets/images/element/categories/shop7_fashion_cat.jpg",
+        "count": 5
+    },
+    {
+        "id": 8,
+        "category": "electronics",
+        "src": "assets/images/element/categories/shop7_electronics_cat.jpg"
+    },
+    {
+        "id": 9,
+        "category": "head phone",
+        "src": "assets/images/element/categories/head_phone.jpg"
+    },
+    {
+        "id": 10,
+        "category": "laptop",
+        "src": "assets/images/element/categories/laptop.jpg"
+    },
+    {
+        "id": 11,
+        "category": "smart phone",
+        "src": "assets/images/element/categories/smart_phone.jpg"
+    },
+    {
+        "id": 12,
+        "category": "smart watches",
+        "src": "assets/images/element/categories/smart_watch.jpg"
+    },
+    {
+        "id": 13,
+        "category": "bulb",
+        "src": "assets/images/element/categories/blub.jpg"
+    },
+    {
+        "id": 14,
+        "category": "Sunglasses",
+        "src": "assets/images/demo2/banners/banner-1.jpg",
+        "count": 16
+    },
+    {
+        "id": 15,
+        "category": "Woman Shoes",
+        "src": "assets/images/demo2/banners/banner-2.jpg",
+        "count": 12
+    },
+    {
+        "id": 16,
+        "category": "Woman Bags",
+        "src": "assets/images/demo2/banners/banner-3.jpg",
+        "count": 38
+    },
+    {
+        "id": 17,
+        "category": "Sunglasses",
+        "src": "assets/images/demo3/banners/banner-1.jpg",
+        "demo": "demo3"
+    },
+    {
+        "id": 18,
+        "category": "Shoes",
+        "src": "assets/images/demo3/banners/banner-2.jpg",
+        "demo": "demo3"
+    },
+    {
+        "id": 19,
+        "category": "Watches",
+        "src": "assets/images/demo3/banners/banner-3.jpg",
+        "demo": "demo3"
+    },
+    {
+        "id": 20,
+        "category": "sunglasses",
+        "src": "assets/images/demo4/categories/category-1.jpg",
+        "demo": "demo4",
+        "count": 3
+    },
+    {
+        "id": 21,
+        "category": "Bags",
+        "src": "assets/images/demo4/categories/category-2.jpg",
+        "demo": "demo4",
+        "count": 4
+    },
+    {
+        "id": 22,
+        "category": "Electronics",
+        "src": "assets/images/demo4/categories/category-3.jpg",
+        "demo": "demo4",
+        "count": 8
+    },
+    {
+        "id": 23,
+        "category": "Fashion",
+        "src": "assets/images/demo4/categories/category-4.jpg",
+        "demo": "demo4",
+        "count": 11
+    },
+    {
+        "id": 24,
+        "category": "Headphone",
+        "src": "assets/images/demo4/categories/category-5.jpg",
+        "demo": "demo4",
+        "count": 3
+    },
+    {
+        "id": 25,
+        "category": "Shoes",
+        "src": "assets/images/demo4/categories/category-6.jpg",
+        "demo": "demo4",
+        "count": 4
+    },
+    {
+        "id": 26,
+        "category": "fashion",
+        "src": "assets/images/demo21/categories/fashion.jpg",
+        "demo": "demo21",
+        "size": "col-md-4",
+        "count": 4
+    },
+    {
+        "id": 27,
+        "category": "furniture",
+        "src": "assets/images/demo21/categories/furniture.jpg",
+        "demo": "demo21",
+        "size": "col-md-5",
+        "count": 4
+    },
+    {
+        "id": 28,
+        "category": "decore",
+        "src": "assets/images/demo21/categories/decore.jpg",
+        "demo": "demo21",
+        "size": "col-md-3",
+        "count": 4
+    },
+    {
+        "id": 29,
+        "category": "accessories",
+        "src": "assets/images/demo21/categories/accessories.jpg",
+        "demo": "demo21",
+        "size": "col-md-4",
+        "count": 4
+    },
+    {
+        "id": 30,
+        "category": "mobile",
+        "src": "assets/images/demo21/categories/lights.jpg",
+        "demo": "demo21",
+        "size": "col-md-3",
+        "count": 4
+    },
+    {
+        "id": 31,
+        "category": "footwear",
+        "src": "assets/images/demo21/categories/footwear.jpg",
+        "demo": "demo21",
+        "size": "col-md-5",
+        "count": 4
+    },
+    {
+        "id": 32,
+        "category": "Bike Saddles",
+        "src": "icon-category-saddle",
+        "demo": "demo29"
+    },
+    {
+        "id": 33,
+        "category": "Bike Pedals",
+        "src": "icon-category-pedals font-lg",
+        "demo": "demo29"
+    },
+    {
+        "id": 34,
+        "category": "Bike Frames",
+        "src": "icon-category-frames font-lg",
+        "demo": "demo29"
+    },
+    {
+        "id": 35,
+        "category": "Bike Chains",
+        "src": "icon-category-chains",
+        "demo": "demo29"
+    },
+    {
+        "id": 36,
+        "category": "Bike Tools",
+        "src": "icon-category-tools",
+        "demo": "demo29"
+    },
+    {
+        "id": 37,
+        "category": "Bags",
+        "src": "assets/images/demo2/categories/category-1.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 38,
+        "category": "Hots",
+        "src": "assets/images/demo2/categories/category-2.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 39,
+        "category": "Jackets",
+        "src": "assets/images/demo2/categories/category-3.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 40,
+        "category": "Sunglasses",
+        "src": "assets/images/demo2/categories/category-4.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 41,
+        "category": "Shoes",
+        "src": "assets/images/demo2/categories/category-5.jpg",
+        "demo": "demo2"
+    },
+    {
+        "id": 42,
+        "category": "Sunglasses",
+        "src": "assets/images/demo3/categories/category-1.jpg",
+        "count": 0
+    },
+    {
+        "id": 43,
+        "category": "Bags",
+        "src": "assets/images/demo3/categories/category-2.jpg",
+        "count": 0
+    },
+    {
+        "id": 44,
+        "category": "Shoes",
+        "src": "assets/images/demo3/categories/category-3.jpg",
+        "count": 0
+    },
+    {
+        "id": 45,
+        "category": "Accessories",
+        "src": "assets/images/demo3/categories/category-4.jpg",
+        "count": 0
+    }
+]
